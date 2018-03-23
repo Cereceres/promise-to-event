@@ -1,0 +1,28 @@
+{
+  "name": "promise-to-event",
+  "version": "0.0.1",
+  "description": "wrap to promise to use a event emitter by callback",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --exit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/promise-to-event.git"
+  },
+  "keywords": [
+    "promise",
+    "event",
+    "emitter",
+    "callback"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/promise-to-event/issues"
+  },
+  "homepage": "https://github.com/Cereceres/promise-to-event#readme"
+}
