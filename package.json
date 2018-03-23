@@ -1,6 +1,6 @@
 {
   "name": "promise-to-event",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wrap to promise to use a event emitter by callback",
   "main": "index.js",
   "directories": {
